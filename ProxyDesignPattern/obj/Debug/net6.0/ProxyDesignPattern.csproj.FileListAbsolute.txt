@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.exe
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.deps.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\refint\ProxyDesignPattern.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\ProxyDesignPatter 22\ProxyDesignPattern\obj\Debug\net6.0\ref\ProxyDesignPattern.dll
